@@ -34,7 +34,6 @@ This repository covers:
 - Matplotlib
 - Scikit-learn
 - TensorFlow / Keras
-- OpenCV
 
 ---
 
