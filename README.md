@@ -223,7 +223,7 @@ By completing these labs, students will gain practical experience in:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/8th_semester_ML_and_DL_Lab.git
+git clone https://github.com/prince4775/8th_semester_ML_and_DL_Lab.git
 ```
 
 ## Install Required Libraries
